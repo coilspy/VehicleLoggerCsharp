@@ -1,0 +1,7 @@
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\obj\Debug\MotorcykelLoggerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\obj\Debug\MotorcykelLoggerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\bin\Debug\MotorcykelLoggerConsole.exe.config
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\bin\Debug\MotorcykelLoggerConsole.exe
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\bin\Debug\MotorcykelLoggerConsole.pdb
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\obj\Debug\MotorcykelLoggerConsole.exe
+C:\Users\Max Strandberg\Source\Repos\MotorcykelLoggerConsole\MotorcykelLoggerConsole\obj\Debug\MotorcykelLoggerConsole.pdb
